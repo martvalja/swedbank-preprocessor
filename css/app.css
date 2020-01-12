@@ -1,0 +1,23 @@
+.header {
+  background-color: #51b8ff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: larger;
+  color: #fff;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.file-uploader {
+  margin-top: 20px;
+}
+
+.file-uploader__label {
+  border: 2px solid #51b8ff;
+  display: inline-block;
+  padding: 6px 12px;
+  cursor: pointer;
+}
+
+.container {
+  text-align: center;
+}
